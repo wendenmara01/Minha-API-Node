@@ -12,13 +12,13 @@ Este repositório contém todo o material de apoio para as aulas, incluindo apos
 - [**Aula 02 - Módulos e NPM**](Aula02/README.md)
 - [**Aula 03 - Introdução ao Express.js**](Aula03/README.md)
 - [**Aula 04 - Middlewares no Express**](Aula04/README.md)
-- [**Aula 05 - Praticando Assincronia**](./Aula05%20-%20Praticando%20Assincronia/README.md)
+
 
 ## Como Usar Este Repositório
 
 1.  **Clone o repositório**:
     ```bash
-    git clone <URL_DO_REPOSITORIO>
+    git clone https://github.com/oMaestro174/node.js-e-express
     ```
 2.  **Navegue até a pasta da aula**:
     ```bash
